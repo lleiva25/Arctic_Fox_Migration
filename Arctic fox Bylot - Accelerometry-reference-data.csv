@@ -1,0 +1,64 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-comments,animal-life-stage,animal-sex,deployment-comments,deployment-end-comments,tag-manufacturer-name,tag-model
+926002,OBBB,Vulpes lagopus,2018-06-03 05:43:00.000,2018-07-22 01:54:00.000,,adult,m,"recaptured during the night of 2018-06-22, tag left on the animal, animal in good condition","recaptured and tag removed, animal in good condition",Milsar,RadioTag-14
+926005,RVJO,Vulpes lagopus,2018-06-05 08:05:00.000,2018-07-18 02:01:00.000,,adult,m,,"recaptured and tag removed, animal in good condition",Milsar,RadioTag-14
+926006,OJOO,Vulpes lagopus,2018-06-05 17:13:00.000,2018-07-22 01:15:00.000,,adult,f,,"recaptured and tag removed, animal in good condition",Milsar,RadioTag-14
+926009,ORRR,Vulpes lagopus,2018-06-08 12:44:00.000,2018-10-09 00:00:00.000,,adult,m,,tag fell off the collar and found on the ground,Milsar,RadioTag-14
+926004,JVOJ,Vulpes lagopus,2018-06-14 22:00:00.000,2019-06-15 11:42:00.000,,adult,f,,"recaptured and tag removed, animal in good condition",Milsar,RadioTag-14
+926007,JMVJ,Vulpes lagopus,2018-06-23 02:15:00.000,2019-05-28 21:54:00.000,,adult,f,,,Milsar,RadioTag-14
+926003,BVOB,Vulpes lagopus,2018-07-03 01:32:00.000,2019-06-16 21:00:00.000,,adult,f,,,Milsar,RadioTag-14
+926008,JBOR,Vulpes lagopus,2018-07-03 02:34:00.000,2018-07-18 07:53:00.000,,adult,m,,,Milsar,RadioTag-14
+926012,OBBB,Vulpes lagopus,2019-05-27 04:20:00.000,2020-10-17 18:13:00.000,,adult,m,,tag returned by hunter,Milsar,RadioTag-14
+926024,JMVJ,Vulpes lagopus,2019-05-28 22:29:00.000,2019-07-21 00:00:00.000,,adult,f,,tag fell off the collar and found on the ground,Milsar,RadioTag-14
+926020,VJOO,Vulpes lagopus,2019-05-30 21:20:00.000,2019-07-09 04:53:00.000,,adult,m,"recaptured 2019-06-02, tag left on the animal, animal in good condition",,Milsar,RadioTag-14
+926022,BBJO,Vulpes lagopus,2019-06-10 00:30:00.000,,,adult,m,,,Milsar,RadioTag-14
+926017,RVJO,Vulpes lagopus,2019-06-12 00:53:00.000,,,adult,m,,,Milsar,RadioTag-14
+926011,BORR,Vulpes lagopus,2019-06-12 20:10:00.000,,,adult,m,,,Milsar,RadioTag-14
+926016,OJOO,Vulpes lagopus,2019-06-14 14:29:00.000,,,adult,f,,,Milsar,RadioTag-14
+926019,JVOJ,Vulpes lagopus,2019-06-15 12:32:00.000,,,adult,f,"recaptured on 2019-06-17 unknown hour, tag left on the animal, animal in good condition",,Milsar,RadioTag-14
+926018,RMJJ,Vulpes lagopus,2019-06-16 05:26:00.000,,,adult,f,,,Milsar,RadioTag-14
+926013,BVOB,Vulpes lagopus,2019-06-16 22:00:00.000,,,adult,f,,,Milsar,RadioTag-14
+926015,OBOB,Vulpes lagopus,2019-06-17 22:30:00.000,,,adult,m,,,Milsar,RadioTag-14
+926023,RMBR,Vulpes lagopus,2019-06-18 04:45:00.000,,,adult,f,,,Milsar,RadioTag-14
+926026,ORRR,Vulpes lagopus,2019-06-19 20:53:00.000,,,adult,m,,,Milsar,RadioTag-14
+926021,BJVO,Vulpes lagopus,2019-06-20 00:06:00.000,,,adult,m,,,Milsar,RadioTag-14
+926014,OBJB,Vulpes lagopus,2019-06-20 01:00:00.000,,broken leg,adult,f,,,Milsar,RadioTag-14
+926025,VORB,Vulpes lagopus,2019-07-11 14:34:00.000,,,adult,f,,,Milsar,RadioTag-14
+926003,RBOR,Vulpes lagopus,2019-07-13 20:08:00.000,,,adult,m,,,Milsar,RadioTag-14
+926027,BOBB,Vulpes lagopus,2019-07-15 07:27:00.000,2020-09-01 00:00:00.000,,adult,m,,"recaptured and tag replaced, animal in good condition",Milsar,RadioTag-14
+926028,RBVM,Vulpes lagopus,2019-07-17 01:20:00.000,,,adult,f,,,Milsar,RadioTag-14
+926007,OJBJ,Vulpes lagopus,2019-07-22 09:11:00.000,,,adult,m,,,Milsar,RadioTag-14
+926041,VRBO,Vulpes lagopus,2022-05-30 21:50:00.000,,,adult,f,"recaptured on 2022-06-06 4:00:00, tag left on the animal, animal in good condition",,Milsar,RadioTag-14
+926030,RBVO,Vulpes lagopus,2022-06-01 17:30:00.000,,,adult,m,,,Milsar,RadioTag-14
+926039,VOVV,Vulpes lagopus,2022-06-03 23:04:00.000,,,adult,m,,,Milsar,RadioTag-14
+926034,VJOO,Vulpes lagopus,2022-06-04 11:00:00.000,,,adult,m,,,Milsar,RadioTag-14
+926044,BOBB,Vulpes lagopus,2022-06-05 05:37:00.000,,,adult,m,,,Milsar,RadioTag-14
+926040,ROJJ,Vulpes lagopus,2022-06-05 06:50:00.000,,,adult,f,"recaptured on 2022-06-07 around 20:00:00 and 2022-06-20 17:50:00, tag left on the animal, animal in good condition",,Milsar,RadioTag-14
+926035,RROR,Vulpes lagopus,2022-06-13 05:53:00.000,,,adult,m,,,Milsar,RadioTag-14
+926012,RVOJ,Vulpes lagopus,2022-06-13 07:05:00.000,,,adult,m,,,Milsar,RadioTag-14
+926038,BOOR,Vulpes lagopus,2022-06-16 13:28:00.000,,,adult,f,,,Milsar,RadioTag-14
+926047,JRBO,Vulpes lagopus,2022-06-18 10:30:00.000,,,adult,m,,,Milsar,RadioTag-14
+926042,OBRR,Vulpes lagopus,2022-06-18 17:41:00.000,,,adult,m,,,Milsar,RadioTag-14
+926031,JVBO,Vulpes lagopus,2022-06-18 18:25:00.000,,,adult,f,,,Milsar,RadioTag-14
+926045,VOJO,Vulpes lagopus,2022-06-20 03:05:00.000,,,adult,m,,,Milsar,RadioTag-14
+926043,BBRO,Vulpes lagopus,2022-06-20 06:10:00.000,,,adult,m,,,Milsar,RadioTag-14
+926036,VROJ,Vulpes lagopus,2022-06-23 07:00:00.000,,,adult,f,,,Milsar,RadioTag-14
+926046,BJOV,Vulpes lagopus,2022-06-23 07:40:00.000,2023-06-01 00:00:00.000,,adult,f,,,Milsar,RadioTag-14
+926048,JOVO,Vulpes lagopus,2022-06-24 13:30:00.000,,,adult,m,,,Milsar,RadioTag-14
+926032,VOOO,Vulpes lagopus,2022-07-06 12:42:00.000,,,adult,m,,,Milsar,RadioTag-14
+926037,OBVO,Vulpes lagopus,2022-07-16 14:50:00.000,,,adult,m,,,Milsar,RadioTag-14
+926029,JOJJ,Vulpes lagopus,2022-07-17 12:31:00.000,,,adult,f,,,Milsar,RadioTag-14
+926033,OBBO,Vulpes lagopus,2022-07-21 14:00:00.000,,,adult,m,,,Milsar,RadioTag-14
+926049,BJOV,Vulpes lagopus,2023-06-01 05:09:00.000,,,adult,f,,,Milsar,RadioTag-14
+926064,VORR,Vulpes lagopus,2023-06-01 13:25:00.000,,,adult,m,,,Milsar,RadioTag-14
+926059,OJVO,Vulpes lagopus,2023-06-04 05:37:00.000,,,adult,f,,,Milsar,RadioTag-14
+926066,OVJB,Vulpes lagopus,2023-06-04 06:47:00.000,,,adult,f,,,Milsar,RadioTag-14
+926062,ROOV,Vulpes lagopus,2023-06-17 05:25:00.000,,,adult,m,,,Milsar,RadioTag-14
+926054,VJJO,Vulpes lagopus,2023-06-17 12:20:00.000,,,adult,m,,,Milsar,RadioTag-14
+926056,RRJO,Vulpes lagopus,2023-06-17 17:10:00.000,,,adult,m,,,Milsar,RadioTag-14
+926061,VJRO,Vulpes lagopus,2023-06-23 19:10:00.000,,,adult,m,,,Milsar,RadioTag-14
+926055,JORO,Vulpes lagopus,2023-07-01 06:12:00.000,,,adult,m,,,Milsar,RadioTag-14
+926052,RJBO,Vulpes lagopus,2023-07-10 18:18:00.000,,,adult,f,,,Milsar,RadioTag-14
+926050,JRVO,Vulpes lagopus,2023-07-17 12:45:00.000,,,adult,f,,,Milsar,RadioTag-14
+926065,OBBR,Vulpes lagopus,2023-07-17 17:45:00.000,,,adult,f,,,Milsar,RadioTag-14
+926053,VRRO,Vulpes lagopus,2023-07-18 00:22:00.000,,,adult,m,,,Milsar,RadioTag-14
+926057,ORJJ,Vulpes lagopus,2023-07-24 03:50:00.000,,,adult,f,,,Milsar,RadioTag-14

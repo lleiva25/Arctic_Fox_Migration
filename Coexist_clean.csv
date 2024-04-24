@@ -1,4 +1,4 @@
-,tag-local-identifier,location-long,location-lat,individual-taxon-canonical-name,gps:satellite-count,individual-local-identifier
+,Tag ID,Longitude,Latitude,Scientific Name,gps:satellite-count,individual-local-identifier
 0,F695853,-92.772104,57.903385,Vulpes vulpes,8,AB
 1,F695853,-92.772006,57.903328,Vulpes vulpes,10,AB
 2,F695853,-92.771983,57.90333,Vulpes vulpes,6,AB
